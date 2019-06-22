@@ -35,3 +35,12 @@ let g:remoteSession = ($STY == "")
 if !g:remoteSession
   let g:airline_powerline_fonts=1
 endif
+
+" vim-markdown
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_conceal = 0
+let g:vim_markdown_follow_anchor = 1
+" highlight frontmatter
+let g:vim_markdown_frontmatter = 1
+let g:vim_markdown_toml_frontmatter = 1
+let g:vim_markdown_json_frontmatter = 1
