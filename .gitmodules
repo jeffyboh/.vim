@@ -1,0 +1,12 @@
+[submodule "bundle/dracula-theme"]
+	path = bundle/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:vim-airline/vim-airline
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git@github.com:plasticboy/vim-markdown.git
