@@ -23,4 +23,5 @@ This setup makes use of [Pathogen](https://github.com/tpope/vim-pathogen) `'runt
 * [github.com/vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes.git)
 * [github.com/leafgarland/typescript-vim](https://github.com/leafgarland/typescript-vim.git)
 * [github.com/dracula/vim](https://github.com/dracula/vim.git)
+* [github.com/elzr/vim-json](https://github.com/elzr/vim-json.git)
 
